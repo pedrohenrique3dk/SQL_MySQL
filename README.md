@@ -33,16 +33,16 @@ ___
 
 
 
- ## Projeto ------------  > <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor"/>
+ ## Projeto Blog Codar  <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor"/>
 
------ Aqui terá a descrição do projeto ------
+O projeto Blog Codar é um projeto fullstack que visa trabalhar os conceitos abordados no módulo de PHP do curso de SQL/MySQL. A finalidade é familiarizar o aluno ao desenvolvimento Web, com a pratica do Back-End e Front-End e sua integração. Após isso o aluno vai criar um novo projeto, conectando um site ao banco de dados, tornando-se capaz de desenvolver projetos completos com Front, Back e Banco de Dados.
 
 ## Tecnologias & Lingagens de Programação 🛠️ 
 
 Este projeto usas as seguintes tecnologias e linguagens de programação
-* <strong>SQL:</strong> -----.
-* <strong>SQL:</strong> -----.
-* <strong>SQL:</strong> -----.
+* <strong>PHP:</strong> Usado no back-end, o PHP possibilitou a conexão entre as páginas sem que fosse necessário a criação de vários arquivos diferentes.
+* <strong>HTML:</strong> Usado no front, o HTML trabalha na estrutura da página, proporcionando uma melhor organização e também a sintaxe adequada.
+* <strong>CSS:</strong> O CSS trabalha na estilização da pagina, dando beleza e proporcionando uma satisfação maior na interação do usuário com a página. As cores, formas e fontes etc.. tudo isso faz parte do CSS.
 
 <div align="center">
  
@@ -56,7 +56,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-aqui colocarei um link
+https://github.com/pedrohenrique3dk/SQL_MySQL/tree/main/PHP/3%20-%20Projeto-Final%20PHP
 ```
 
 >[!TIP]
@@ -89,7 +89,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-aqui colocarei outro link
+https://github.com/pedrohenrique3dk/SQL_MySQL
 ```
 
 </div>
@@ -101,10 +101,20 @@ aqui colocarei outro link
 |  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
 
----
+___
 
-<a href=""><img src="" alt = "codigo" width="400" height="250" max-width = 100%></a>  <a href=""><img src="" alt = "codigo" width="400" height="250" max-width=100%></a>
+<a href="https://github.com/pedrohenrique3dk/SQL_MySQL/tree/main/PHP/3%20-%20Projeto-Final%20PHP"><img src="https://github.com/user-attachments/assets/29fd0f0b-d4fb-455e-aadb-9e3e25e69672" alt = "codigo" width="400" height="250" max-width = 100%></a> &nbsp; &nbsp;<a href="https://youtu.be/ahi5o1eY6-A"><img src="https://github.com/user-attachments/assets/471f1a44-4aed-47ca-bb75-597c271006f5" alt = "codigo" width="400" height="250" max-width=100%></a>
+
+___
 
 
 |  Blog em PHP  |
 |---------------------------------------------|
+
+
+___
+
+
+<img src="https://github.com/user-attachments/assets/1defc74e-4da5-4aa4-8fe6-7eb7988fea0e" alt = "codigo" width="400" height="250" max-width = 100%>&nbsp; &nbsp;<img src="https://github.com/user-attachments/assets/3754c5c6-9e3d-45f2-98a0-69cf6515c60a" alt = "codigo" width="400" height="250" max-width=100%>&nbsp;
+
+<img src="https://github.com/user-attachments/assets/383400b5-22c8-4284-b30e-5d84450357e2" alt = "codigo" width="400" height="250" max-width = 100%>&nbsp; &nbsp;<img src="https://github.com/user-attachments/assets/b1b4321e-d230-46cb-b5cd-8bc24f991848" alt = "codigo" width="400" height="250" max-width=100%>
