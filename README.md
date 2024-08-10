@@ -35,7 +35,7 @@ ___
 
  ## Projeto Blog Codar  <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor"/>
 
------ Aqui terá a descrição do projeto ------
+O projeto Blog Codar é um projeto fullstack que visa trabalhar os conceitos abordados no módulo de PHP do curso de SQL/MySQL. A finalidade é familiarizar o aluno ao desenvolvimento Web, com a pratica do Back-End e Front-End e sua integração. Após isso o aluno vai criar um novo projeto, conectando um site ao banco de dados, tornando-se capaz de desenvolver projetos completos com Front, Back e Banco de Dados.
 
 ## Tecnologias & Lingagens de Programação 🛠️ 
 
