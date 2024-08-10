@@ -12,7 +12,9 @@
     ?>
     <div class="container-contato">
         <div class="form-box">
+            <div id="titulo-box">
             <h1 class="h1">Entre em Contato</h1>
+            </div>
             <form action="<?= $_SERVER["PHP_SELF"]?>" method="get">
                 <input type="text" name="nome" id="nome" placeholder="Nome" value="<?= $nome ?>">
                 <input type="text" id="email" name ="email" placeholder="E-mail">

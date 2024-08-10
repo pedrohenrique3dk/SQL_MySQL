@@ -31,4 +31,3 @@
     ],
   ];
 
-  $mensagem = [['id' => 5, 'mensagem' => 'Resebemos a sua mensagem, entraremos em contato em breve... ']];

@@ -6,7 +6,7 @@
      box-sizing: border-box;
 }
 body{
-    background-color: #9393db;
+    background-color: #f3f3f3;
 }
 
 html {
@@ -68,6 +68,113 @@ main {
     
 
 }
+/*POST*/
+
+#post-container{
+    display: grid;
+    grid-template-columns: 75% 25%;
+    grid-template-rows: auto;
+    grid-template-areas: "main sidebar";
+    grid-gap: 10px;
+    padding-top: 10px;
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 250px;
+}
+
+.content-container {
+    grid-area: main;
+}
+
+#post-description {
+    font-style: italic;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    color: rgb(139, 139, 139);
+    
+}
+#main-title{
+    font-size: 36px;
+    margin-bottom: 30px;
+    color:  #5850a0;
+
+    
+
+}
+
+.pag-individual {
+    color: #5850a0;
+    
+}
+
+.post-content{
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    line-height: 1.8;
+    margin: 10px 0px;
+    width: 700px;
+    background-color: #929090;
+    
+}
+
+#img-container{
+    margin-bottom: 30px;
+
+}
+
+#img-container img{
+    height: 400px;
+    width: 700px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 3px black;
+    
+}
+
+/*POST ASIDE*/
+
+.nav-container{
+    grid-area: sidebar;
+    
+}
+
+#tags-title, #categories-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+    background-color: #178090;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-weight: 300;
+}
+
+#tag-list, #categories-list{
+    list-style: none;
+}
+
+#tag-list li, #categories-list li{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+#calma-bb{
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 1px 1px 2px;
+}
+
+#tag-list a, #categories-list a {
+    font-size: 16px;
+    color: #666;
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+#tag-list a:hover, #categories-list a:hover {
+    color: #20d498;
+    font-weight: bold;
+    
+}
 
 /* FOOTER */
 footer {
@@ -90,15 +197,15 @@ footer {
 }
 #title-container h1 {
     font-size: 50px;
-    color:  white;
+    color:  
+    #5850a0;
     text-shadow: 2px 2px 3px black;
 
 }
 #title-container p{
     margin-top: 10px;
     text-transform: uppercase;
-    color: #178090;
-    text-shadow: 1px 1px 2px;
+    color: rgb(139, 139, 139);
 }
 
 #posts-container {
@@ -134,20 +241,20 @@ footer {
     margin: 10px 0;
 }
 .post-box .post-title a{
-    color: white;
-    text-shadow: 2px 2px 3px black;
+    color: #5850a0;
     transition: 0.5s;
     text-decoration: none;
 }
 
 .post-box .post-title a:hover{
     color: #20d498;
-    font-size: 26px;
+    font-weight: bold;
     
 } 
 
 .post-box .post-description {
-    color: #178090;
+    color: rgb(139, 139, 139);
+    
 }
 
 .tags-container{
@@ -157,7 +264,7 @@ footer {
 }
 .tags-container a{
     font-size: 14px;
-    color: white;
+    color:  #5850a0;
     text-decoration: none;
     transition: 0.5s; 
     margin-right: 5px;
@@ -165,7 +272,7 @@ footer {
 
 .tags-container a:hover {
     color:#20d498;
-    font-size: 18px;
+    font-weight: bold;
 }
 
 ::after, ::before{
@@ -187,7 +294,7 @@ footer {
 .form-box {
     display: flex;
     flex-direction: column;
-    background-color:  #178090;
+    background-color:  #fff;
     border-radius: 8px;
     width: 700px;
     box-shadow: 2px 2px 3px black;
@@ -206,7 +313,7 @@ footer {
     width: calc(50% - 8px);
     height: 48px;
     border-radius: 8px;
-    border: #999;
+    border: black;
     padding-left: 16px;
     margin-bottom: 16px;
     font-size: 16px;
@@ -225,9 +332,8 @@ footer {
     display: block;
     width: 180px;
     height: 48px;
-    color: #666;
+    color: black;
     border-radius: 8px;
-    text-shadow: 1px 1px 2px #161616;
     background-color: white;
     box-shadow: 2px 2px 3px #161616;
     transition: 0.5s;
@@ -265,12 +371,57 @@ footer {
     text-shadow: 2px 2px 3px black;
 }
 
-.box-resposta {
-    text-align: center;
-    color: white;
-    margin-bottom: 25px;
-    padding-left: 10px;
-    padding-right: 10px;
-
+#titulo-box {
+    background-color: #178090;
+    border-radius: 8px;
+    padding-bottom: 20px;
 }
+
+/*MOBILE*/
+@media(max-width: 480px){
+    /*HOME*/
+    header {
+        width: 100%0;
+    }
+
+    #logo {
+        display: block;
+        position: relative;
+        margin:0 auto;
+        left: 0;
+        width: 50px;
+        
+    }
+
+    #navbar {
+       display: none;
+
+    }
+
+    #title-container {
+        min-width: 100%;
+        margin-top: 20px;
+    }
+
+    .posts-container{
+        margin-top: 20px;
+    }
+
+    .pos.box {
+        flex: 100% 1 0;
+        padding: 15px;
+    }
+     /*POST*/
+
+    #post-container {
+        grid-template-columns: 100%;
+        padding: 15px;
+        grid-template-areas: "main" "sidebar";
+    
+    }
+    #img-container img {
+        width: 100%;
+    }
+}
+
 

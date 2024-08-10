@@ -12,7 +12,7 @@
                 <div class="post-box">
                     <img src="img/<?= $post['img']?>" alt="<? $post['title'] ?>">
                     <h1 class="post-title">
-                        <a href="/data/posts.php<?= $post['id'] ?>"><?= $post['title']?></a>
+                        <a href="post.php?id=<?= $post['id'] ?>"><?= $post['title']?></a>
                     </h1>
                     <p class="post-description"><?= $post['description'] ?></p>
                     <div class="tags-container">
