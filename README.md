@@ -98,7 +98,7 @@ https://github.com/pedrohenrique3dk/SQL_MySQL
 
 <div align='center'>
 
-|  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
+|  Código do Projeto |Apresentação do Projeto |
 |---------------------------------------------|--------------------------------------------------|
 
 ___
