@@ -56,7 +56,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/SQL_MySQL/tree/main/PHP/3%20-%20Projeto-Final%20PHP
+https://github.com/pedrohenrique3dk/SQL_MySQL/tree/main/03%20-%20PHP/3%20-%20Projeto-Final%20PHP
 ```
 
 >[!TIP]
@@ -103,7 +103,7 @@ https://github.com/pedrohenrique3dk/SQL_MySQL
 
 ___
 
-<a href="https://github.com/pedrohenrique3dk/SQL_MySQL/tree/main/PHP/3%20-%20Projeto-Final%20PHP"><img src="https://github.com/user-attachments/assets/29fd0f0b-d4fb-455e-aadb-9e3e25e69672" alt = "codigo" width="400" height="250" max-width = 100%></a> &nbsp; &nbsp;<a href="https://youtu.be/ahi5o1eY6-A"><img src="https://github.com/user-attachments/assets/471f1a44-4aed-47ca-bb75-597c271006f5" alt = "codigo" width="400" height="250" max-width=100%></a>
+<a href="https://github.com/pedrohenrique3dk/SQL_MySQL/tree/main/03%20-%20PHP/3%20-%20Projeto-Final%20PHP"><img src="https://github.com/user-attachments/assets/29fd0f0b-d4fb-455e-aadb-9e3e25e69672" alt = "codigo" width="400" height="250" max-width = 100%></a> &nbsp; &nbsp;<a href="https://youtu.be/ahi5o1eY6-A"><img src="https://github.com/user-attachments/assets/471f1a44-4aed-47ca-bb75-597c271006f5" alt = "codigo" width="400" height="250" max-width=100%></a>
 
 ___
 
