@@ -1,6 +1,6 @@
 <?php 
     include_once("templates/header.php");
-    include_once("processo/pizza.php")
+    include_once("processo/pizza.php");
 ?>
    <div id="main-banner">
         <h1>
@@ -12,7 +12,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <h2>Monte a Pizza como Desejar:</h2>
-                    <form action="process/pizza.php" id="pizza-form" method="POST">
+                    <form action="processo/pizza.php" id="pizza-form" method="POST">
                         <div class="form-group">
                             <label for="borda">Borda:</label>
                             <select name="borda" id="borda" class="form-control">
@@ -33,7 +33,7 @@
                         </div>
                         <div class="form-group">
                             <label for="sabores">Sabores: (Máximo 3)</label>
-                            <select multiple name="sabores []" id="sabores" class="form-control">
+                            <select multiple name="sabores[]"  id="sabores" class="form-control">
                             <?php foreach($sabores as $sabor):?>
                                     <option value="<?= $sabor["id"] ?>"><?= $sabor["nome"]?></option>
                                 <?php endforeach; ?>
